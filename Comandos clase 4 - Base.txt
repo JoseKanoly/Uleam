@@ -21,7 +21,7 @@ Prisma - Practica
 1 - Crear un proyecto
 npx tsc --init (borrar el anterior)
 npm install prisma --save-dev
-npx prisma init --datasource-provider sqlite
+npx prisma init --datasource-provider postgresql
 
 
 2 - Modela tus datos 
